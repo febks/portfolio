@@ -4,7 +4,7 @@ const nextConfig = {
     target: 'static'
   },
   distDir: 'dist',
-  path: '/dst',
+  path: '/dist',
   images: {
     unoptimized: true
   }
