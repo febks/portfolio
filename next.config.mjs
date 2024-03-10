@@ -1,13 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: {
-    target: 'static'
-  },
+  output: 'export',
   distDir: 'dist',
-  path: '/dist',
   images: {
     unoptimized: true
   }
 };
 
-module.exports = nextConfig
+export default nextConfig;
