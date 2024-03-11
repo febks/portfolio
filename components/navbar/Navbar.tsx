@@ -25,7 +25,7 @@ const Navbar = () => {
               <Link href="/contact">Contact</Link>
             </li>
             <li className="hover:text-primary hover:font-semibold active:font-semibold">
-              <Link href="/api/CV" target="_blank" rel="noopener noreferrer">Download CV</Link>
+              <Link href="/api/Resume_FebrianaKusumah.pdf" target="_blank" rel="noopener noreferrer">Download CV</Link>
             </li>
           </ul>
         </div>
