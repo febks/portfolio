@@ -24,6 +24,9 @@ const Navbar = () => {
             <li className="hover:text-primary hover:font-semibold active:font-semibold">
               <Link href="/contact">Contact</Link>
             </li>
+            <li className="hover:text-primary hover:font-semibold active:font-semibold">
+              <Link href="/api/CV" target="_blank" rel="noopener noreferrer">Download CV</Link>
+            </li>
           </ul>
         </div>
       </div>
